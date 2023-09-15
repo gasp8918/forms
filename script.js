@@ -16,6 +16,6 @@ function validateForm() {
   else { // yay
     alert("you win!")
     document.getElementById("samus").style.opacity = 100
-    return false
+    return false // returning false makes the page not refresh so you can see samus
   }
 }
