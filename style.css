@@ -1,4 +1,12 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  font-family: sans-serif;
+  background-color: gainsboro;
+}
+
+#main {
+  background-color: gray;
+  color: white;
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: center;
 }
